@@ -1,6 +1,6 @@
-#ISM2411 Lab 12 - Read a Sales CSV, Write a Cleaned Report
+# ISM2411 Lab 12 — Read a Sales CSV, Write a Cleaned Report
 
-Ryan Liu
+Ryan (add your last name)
 
 Run with:
 
